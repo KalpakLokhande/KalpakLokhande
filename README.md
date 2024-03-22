@@ -37,6 +37,7 @@ My coding journey kicked off during the lockdown when I had this ambitious idea 
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
 </a></p>
+<br/>
 ### Badges
 <b>My GitHub Stats</b><a
 href="http://www.github.com/KalpakLokhande"><img
